@@ -1,0 +1,10 @@
+hanks                tom                  1956     20.00    0.50     0.50     not_smiling          20.00    20.00   
+sparrow              jack                 1889     100.00   0.30     0.80     smiling              200.00   200.00  
+good                 michell              1999     30.00    0.20     0.20     smiling              50.00    50.00   
+prenom               mon                  2000     5.00     0.90     0.90     not_smiling          10.00    10.00   
+arch                 steven               2010     12.00    0.35     0.55     smiling              60.00    100.00  
+airbind              momu                 2015     20.00    0.10     0.10     smiling              80.00    98.00   
+samson               sam                  1000     120.00   0.50     0.50     smiling              150.00   150.00  
+richi                rick                 2003     32.00    0.10     0.30     not_smiling          140.00   12.00   
+python               monty                1979     80.00    0.75     0.75     smiling              150.00   120.00  
+quijote              don                  1605     200.00   0.90     0.90     smiling              250.00   250.00  
